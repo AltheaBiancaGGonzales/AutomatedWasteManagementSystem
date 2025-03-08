@@ -20,3 +20,6 @@ The appropriate waste collector in the chain should handle the disposal based on
 
 ### Validation: 
 Ensure that waste containers are correctly identified and disposed of by the appropriate waste collector in the chain.
+
+
+![image](https://github.com/user-attachments/assets/458ee53f-dced-4d05-868c-3f5b1ebb3f85)
