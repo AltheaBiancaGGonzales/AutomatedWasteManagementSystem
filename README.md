@@ -1,8 +1,6 @@
 # AutomatedWasteManagementSystem
 
 
-Automated Waste Management System
-
 ### Background:
 Municipalities and cities face significant challenges in managing and efficiently disposing of waste. Traditional waste collection methods often result in delays, inefficiencies, and high operational costs. An innovative solution is needed to automate the waste management process, ensuring timely collection and disposal while optimizing resource utilization.
 ### Objective: 
